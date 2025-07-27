@@ -2,9 +2,9 @@
 
 ![banner](banner.png)
 
-An interactive web-based demonstration of fundamental tabular Reinforcement Learning (RL) algorithms in a simple grid world environment. Built with vanilla HTML, CSS, and JavaScript.
+An interactive web-based demonstration of fundamental tabular Reinforcement Learning (RL) algorithms in a simple grid world environment. Explore core **tabular RL algorithms** inside a playful grid‑world—directly in your browser, zero installs.
 
-**[Try it here!](https://bashirmohd.github.io/sup-genai-sa_am-rl-arena/)**
+**[Launch the live demo here!](https://bashirmohd.github.io/sup-genai-sa_am-rl-arena/)**
 
 ## Features ✨
 
