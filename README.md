@@ -50,9 +50,9 @@ An interactive web-based demonstration of fundamental tabular Reinforcement Lear
     *   Reset Environment (resets grid layout).
 *   **Responsive Design:** Adapts to different screen sizes.
 
-## How to Use 🚀
+## Quick Start🚀
 
-### Running Locally
+### Running Locally (optional)
 
 1.  Clone this repository:
     ```bash
@@ -78,14 +78,12 @@ An interactive web-based demonstration of fundamental tabular Reinforcement Lear
 4.  **Observe:** Watch how different algorithms and parameters affect the agent's behavior and learning speed. Use the "Cell Display" options to visualize the learned values (`V(s)`, `Q(s,a)`) or policy (`π(s)`).
 5.  **Control:** Use "Stop Learning", "Reset Algorithm", or "Reset Environment" as needed.
 
-## Technology Stack 🛠️
+## Under the Hood - Technology Stack 🛠️
 
-*   HTML5
-*   CSS3 (including CSS Grid for layout)
-*   JavaScript (ES Modules)
-*   Canvas API (for grid rendering and animations)
-*   Chart.js (for progress plotting)
-*   KaTeX (for math formula rendering)
+*   **Languages & APIs:** HTML5, ES‑modules JavaScript, CSS Grid, Canvas.
+*   **Libraries:** Chart.js (plots), KaTeX (math).
+*   **No frameworks, no build step.**
+
 
 
 ## Author ©️
