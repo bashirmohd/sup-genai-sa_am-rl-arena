@@ -68,7 +68,7 @@ An interactive web-based demonstration of fundamental tabular Reinforcement Lear
     ```
 3.  Navigate to `http://localhost:8000` (or the port provided by your server) in your browser.
 
-### Interacting with the Demo
+###  Test‑Drive the Demo
 
 1.  **Configure Settings:** Use the collapsible "Algorithm Settings" and "Environment Settings" panels to select algorithms, strategies, and adjust parameters using the sliders and dropdowns.
 2.  **Modify Environment:**
